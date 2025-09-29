@@ -1,6 +1,7 @@
 # Maddox-Hoods Home Page
 
-### Interests:
+### <ins>Interests:</ins>
 
   Ice Hockey
+  
   Reading
